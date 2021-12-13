@@ -1,0 +1,12 @@
+{
+  "name": "Data Structures and Algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "welcome": "echo \"Hello, i'm learning here.\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Banescu Adrian",
+  "license": "ISC"
+}
